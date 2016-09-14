@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/jmlallier/littlefox.png?label=ready&title=Ready)](https://waffle.io/jmlallier/littlefox)
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
 _s
