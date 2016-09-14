@@ -1,4 +1,5 @@
-[![Stories in Ready](https://badge.waffle.io/jmlallier/littlefox.png?label=ready&title=Ready)](https://waffle.io/jmlallier/littlefox)
+[![Stories in In Progress](https://badge.waffle.io/jmlallier/littlefox.png?label=In%20Progress&title=In%20Progress)](https://waffle.io/jmlallier/littlefox)
+[![Stories in Done](https://badge.waffle.io/jmlallier/littlefox.png?label=done&title=Done)](https://waffle.io/jmlallier/littlefox)
 
 
 Hi, I'm Little Fox.
