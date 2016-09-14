@@ -33,7 +33,7 @@ $contact_bg_color = get_field( 'contact_bg_color' );
       </div><!-- .header-title -->
       <?php echo $contact_text; ?>
       
-      <?php echo do_shortcode( '[contact-form-7 id="7" title="Main Page Contact"]' ); ?>
+		 <?php echo do_shortcode( '[contact-form-7 id="9" title="Main Contact"]' ); ?>
 
   </div><!-- .container -->
 </section><!-- #contact -->

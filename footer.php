@@ -8,14 +8,11 @@
  *
  * @package Little_Fox
  */
-$frontpage_id = get_option( 'page_on_front' );
-$options = get_post_meta($frontpage_id, 'options', true );
 
 ?>
 
 <!-- FOOTER 
 ===================================================== -->
-<?php if((is_array($options) && in_array('footer', $options)) || (is_string($options) && $options == 'footer') ) { ?>
 <footer>
   <div class="container">
     <div class="columns">
@@ -23,7 +20,6 @@ $options = get_post_meta($frontpage_id, 'options', true );
     </div>
   </div>
 </footer>
-<?php } ?>	
 
 </div><!-- #page -->
 
